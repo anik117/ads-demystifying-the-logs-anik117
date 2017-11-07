@@ -1,2 +1,2 @@
 # Contributions File
-- I have taken help Md. Mehedi Hasan
+- I have taken help Md. Mehedi Hasan and Feroz Ahmmed
